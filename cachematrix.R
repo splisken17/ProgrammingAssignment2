@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions that will create a matrix and then find it's inverse and cache it
 
-## Creates a special matrix ojbect that can cache its inverse
+## Creates a special matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
